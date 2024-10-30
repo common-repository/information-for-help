@@ -1,0 +1,153 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Information for Help\n"
+"POT-Creation-Date: 2019-08-02 10:08+0200\n"
+"PO-Revision-Date: 2019-08-02 10:08+0200\n"
+"Last-Translator: Giuseppe <giu09.mor@gmail.com>\n"
+"Language-Team: Giuseppe <giu09.mor@gmail.com>\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: information-for-help.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: class.admin.system.report.php:27
+msgid "WordPress Environment"
+msgstr "Ambiente WordPress"
+
+#: class.admin.system.report.php:31
+msgid "Home URL"
+msgstr "URL della Home"
+
+#: class.admin.system.report.php:34
+msgid "Wordpress Version"
+msgstr "Versione WordPress"
+
+#: class.admin.system.report.php:37
+msgid "Wordpress Multisite"
+msgstr "Wordpress multisito"
+
+#: class.admin.system.report.php:37 class.admin.system.report.php:40
+#: class.admin.system.report.php:177
+msgid "Yes"
+msgstr "Si"
+
+#: class.admin.system.report.php:37 class.admin.system.report.php:40
+#: class.admin.system.report.php:177
+msgid "No"
+msgstr "No"
+
+#: class.admin.system.report.php:40
+msgid "Wordpress Debug Mode"
+msgstr "Modalità di debug WordPress"
+
+#: class.admin.system.report.php:70
+msgid "Server Environment"
+msgstr "Ambiente Server"
+
+#: class.admin.system.report.php:74
+msgid "PHP Version"
+msgstr "Versione PHP"
+
+#: class.admin.system.report.php:79
+#, php-format
+msgid "%s - We recommend a minimum PHP version of 5.3."
+msgstr "%s-si consiglia una versione minima di PHP di 5,3."
+
+#: class.admin.system.report.php:84
+msgid "Couldn't determine PHP version because phpversion() doesn't exist."
+msgstr ""
+"Non posso determinare la versione di PHP perchè la funzione phpversion() non "
+"esiste."
+
+#: class.admin.system.report.php:89
+msgid "MySQL Version"
+msgstr "Versione MySQL"
+
+#: class.admin.system.report.php:97
+msgid "Database size"
+msgstr "Dimensioni del database"
+
+#: class.admin.system.report.php:114
+msgid "Must Use Plugins"
+msgstr "Plugin Must Use"
+
+#: class.admin.system.report.php:128
+msgid "Active Plugins"
+msgstr "Plugins attivi"
+
+#: class.admin.system.report.php:141
+#, php-format
+msgctxt "Version info"
+msgid "%s is available"
+msgstr "%s è disponibile"
+
+#: class.admin.system.report.php:166
+msgid "Current Theme"
+msgstr "Tema attuale"
+
+#: class.admin.system.report.php:170
+msgid "Theme"
+msgstr "Tema"
+
+#: class.admin.system.report.php:173
+msgid "Theme Version"
+msgstr "Versione Tema"
+
+#: class.admin.system.report.php:176
+msgid "Child Theme"
+msgstr "Tema Figlio"
+
+#: class.admin.system.report.php:184
+msgid "Parent Theme"
+msgstr "Tema genitore"
+
+#: class.admin.system.report.php:197
+msgid "User Agent"
+msgstr "User Agent"
+
+#: class.admin.system.report.php:213
+msgid "Copy System Report for Support"
+msgstr "Copia il report per richiedere supporto"
+
+#: class.admin.system.report.php:217
+msgid "Copy for Support"
+msgstr "Copia per l'Assistenza"
+
+#: information-for-help.php:30
+msgid "WordPress Help"
+msgstr ""
+
+#: information-for-help.php:43
+msgid "Get Info for help"
+msgstr "Ottieni informazioni per assistenza"
+
+#. Plugin Name of the plugin/theme
+msgid "Information for Help"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"It gives you all the information you should share for asking help about your "
+"website"
+msgstr ""
+"Ti dà tutte le informazioni che dovresti condividere per chiedere aiuto per "
+"il tuo sito web"
+
+#. Author of the plugin/theme
+msgid "Jose Mortellaro"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://josemortellaro.com/"
+msgstr ""
